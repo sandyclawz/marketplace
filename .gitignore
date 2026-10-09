@@ -1,0 +1,8 @@
+# данные не храним в git (слишком большие для GitHub)
+filtered_data/
+*.csv
+# служебное
+.DS_Store
+.ipynb_checkpoints/
+.venv/
+__pycache__/
